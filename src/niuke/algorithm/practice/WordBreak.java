@@ -14,6 +14,12 @@ import java.util.Set;
  * 
  * Return true because"leetcode"can be segmented as"leet code".
  * 
+ * Pragram needs the two lines of input
+ * 
+ * first line is the given string
+ * 
+ * second line is the dict, use space " " to seperate different words in dict
+ * 
  * @author Sparta
  *
  */
